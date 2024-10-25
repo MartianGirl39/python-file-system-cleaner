@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="717a6150-2989-45c6-b67a-9c9c8535d5f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/clean-directory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clean/handlers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clean/handlers/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clean/handlers/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clean/handlers/smart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organize/handlers/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/organize/handlers/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/affirmatives.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/negatives.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/smart-word-bank.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roomba.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/basic/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/match/basictest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/match/basictest2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/safe/basictest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/smart/basictest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/sort/basic/basictest.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2nhqUhApINRf1xM44s2EECDNKqY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for basictest.test_delete_01 (1).executor": "Run",
+    "Python tests.Python tests for basictest.test_delete_01.executor": "Run",
+    "Python tests.Python tests for basictest.test_delete_02 (1).executor": "Run",
+    "Python tests.Python tests for basictest.test_delete_02.executor": "Run",
+    "Python tests.Python tests for basictest.test_delete_03 (1).executor": "Run",
+    "Python tests.Python tests for basictest.test_delete_03.executor": "Run",
+    "Python tests.Python tests for basictest.test_delete_04 (1).executor": "Run",
+    "Python tests.Python tests for basictest.test_delete_04.executor": "Run",
+    "Python tests.Python tests for basictest.test_delete_05.executor": "Run",
+    "Python tests.Python tests for basictest.test_sort_01.executor": "Run",
+    "Python tests.Python tests for basictest.test_sort_02.executor": "Run",
+    "Python tests.Python tests for basictest.test_sort_03.executor": "Run",
+    "Python tests.Python tests for basictest.test_sort_04.executor": "Run",
+    "Python tests.Python tests for basictest.test_using_side_effect.executor": "Run",
+    "Python tests.Python tests for basictest2.test_delete_01.executor": "Run",
+    "Python tests.Python tests for basictest2.test_delete_02.executor": "Run",
+    "Python tests.Python tests for basictest2.test_delete_03.executor": "Run",
+    "Python tests.Python tests for basictest2.test_delete_04.executor": "Run",
+    "Python.clean.executor": "Run",
+    "Python.roomba (1).executor": "Run",
+    "Python.roomba.executor": "Run",
+    "Python.secretary.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/tests/basic/match" />
+      <recent name="$PROJECT_DIR$/tests/basic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.clean">
+    <configuration name="clean" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="clean-directory" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clean" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clean/clean.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="roomba" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="clean-directory" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/roomba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for basictest.test_delete_01" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="clean-directory" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;basictest.test_delete_01&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for basictest.test_delete_02 (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="clean-directory" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;basictest.test_delete_02&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for basictest.test_sort_01" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="clean-directory" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/sort/basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;basictest.test_sort_01&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for basictest.test_sort_04" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="clean-directory" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/sort/basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;basictest.test_sort_04&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.clean" />
+        <item itemvalue="Python tests.Python tests for basictest.test_sort_04" />
+        <item itemvalue="Python tests.Python tests for basictest.test_sort_01" />
+        <item itemvalue="Python tests.Python tests for basictest.test_delete_02 (1)" />
+        <item itemvalue="Python tests.Python tests for basictest.test_delete_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="717a6150-2989-45c6-b67a-9c9c8535d5f3" name="Changes" comment="" />
+      <created>1729435672197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729435672197</updated>
+    </task>
+    <servers />
+  </component>
+</project>
